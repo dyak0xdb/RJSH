@@ -23,10 +23,8 @@ You can access the `href` attribute (the URL) of a specific link:
 
 ```javascript
 document.links[0].href
-// 'file:///C:/js-quiz-practice/index.js'
+// 'https://example.com/page1)'
 ```
-
----
 
 ## Looping Over All Links
 
@@ -46,10 +44,6 @@ https://example.com/page2
 ...
 ```
 
-> This is simple but powerful! It loops over **each link element** and prints its `href` value.
-
----
-
 ### Notes
 
 * `document.links` is **live**: if you add new `<a>` elements dynamically, it will update automatically.
@@ -62,3 +56,6 @@ for (const link of document.links) {
   }
 }
 ```
+
+> This is simple but powerful! It loops over **each link element** and prints its `href` value.
+
