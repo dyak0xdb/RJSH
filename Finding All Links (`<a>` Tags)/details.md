@@ -41,7 +41,6 @@ for (const link of document.links) {
 ```text
 https://example.com/page1
 https://example.com/page2
-...
 ```
 
 ### Notes
