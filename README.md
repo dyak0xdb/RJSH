@@ -1,2 +1,2 @@
 # RJSH
-My Mini Reach On JS
+My Mini Research On JS For Hunt
