@@ -50,9 +50,7 @@ https://example.com/page2
 
 ```javascript
 for (const link of document.links) {
-  if (link.href.startsWith('http')) {
     console.log(link.href);
-  }
 }
 ```
 
