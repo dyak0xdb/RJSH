@@ -1,4 +1,4 @@
-# Finding All Links (`<a>` Tags) on a Web Page
+# Finding All Links (`<a>` `<area>` Tags) on a Web Page
 
 ## `document.links`
 
@@ -56,3 +56,4 @@ for (const link of document.links) {
 
 > This is simple but powerful! It loops over **each link element** and prints its `href` value.
 
+# I'm a deep JavaScript reader anyway and I'll try to update this code.
